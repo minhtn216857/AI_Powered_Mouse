@@ -15,7 +15,7 @@ When you want to stop my app, press **space**
 Below is the demo by running the sript **AI_MOUSE.py**:
 (Because when recording video the mouse has an error of staying still, I will fix the video demo soon)
 <p align="center">
-  <img src="demo/quickdraw.gif" width=600><br/>
+  <img src="demo/Screencast-from-2024-03-04-21-48-00-_online-video-cutter.com_-_1_.gif" width=600><br/>
   <i>AI Mouse app demo</i>
 </p>
 
