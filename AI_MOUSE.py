@@ -10,7 +10,7 @@ mp_hands = mp.solutions.hands
 screen_width, screen_height = pyautogui.size()
 index_y = 0
 thumb_y = 0
-mid_finger_y = 0
+
 
 cap = cv2.VideoCapture(0)
 with mp_hands.Hands(
@@ -59,7 +59,7 @@ with mp_hands.Hands(
                         mid_finger_x = x * screen_width / frame_width
                         mid_finger_y = y * screen_height / frame_height
                         if abs(thumb_y - mid_finger_y) < 15:
-                            print('Output: ', abs(thumb_y - mid_finger_y))
+                            #print('Output: ', abs(thumb_y - mid_finger_y))
                             pyautogui.click()
                             pyautogui.sleep(0.3)
 
