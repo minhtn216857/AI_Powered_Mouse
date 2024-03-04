@@ -11,9 +11,11 @@ Here is my python source code for AI MOUSE, with my code, you could:
 In order to use this app, you must raise a hand (object) appears in front of camera:
 - Using a index finger to move the computer mouse around the screen
 - Using a thumb touches a middle finger to represent a button click
-When you want to stop my app, press **space** 
-Below is the demo by running the sript **AI_MOUSE.py**:
+When you want to stop my app, press **space**
+
 (Because when recording video the mouse has an error of staying still, I will fix the video demo soon)
+Below is the demo by running the sript **AI_MOUSE.py**:
+
 <p align="center">
   <img src="demo/Screencast-from-2024-03-04-21-48-00-_online-video-cutter.com_-_1_.gif" width=600><br/>
   <i>AI Mouse app demo</i>
