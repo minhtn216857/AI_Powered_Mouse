@@ -14,6 +14,7 @@ In order to use this app, you must raise a hand appears in front of camera:
 When you want to stop my app, press **space**
 
 (Because when recording video the mouse has an error of staying still, I will fix the video demo soon)
+
 Below is the demo by running the sript **AI_MOUSE.py**:
 
 <p align="center">
