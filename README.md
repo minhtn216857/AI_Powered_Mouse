@@ -8,7 +8,7 @@ Here is my python source code for AI MOUSE, with my code, you could:
 * **Run an app which you could control the computer mouse with your fingers (If you use laptop, your webcam will be used by default)**
 
 ## AI Mouse app
-In order to use this app, you must raise a hand (object) appears in front of camera:
+In order to use this app, you must raise a hand appears in front of camera:
 - Using a index finger to move the computer mouse around the screen
 - Using a thumb touches a middle finger to represent a button click
 When you want to stop my app, press **space**
